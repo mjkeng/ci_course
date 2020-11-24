@@ -2,6 +2,7 @@
 ![Python 3.6-3.9](https://github.com/mjkeng/ci_course/workflows/Python%203.6-3.9/badge.svg)
 [![codecov](https://codecov.io/gh/mjkeng/ci_course/branch/main/graph/badge.svg?token=CPERMII8Y2)](https://codecov.io/gh/mjkeng/ci_course)
 [![BCH compliance](https://bettercodehub.com/edge/badge/mjkeng/ci_course?branch=main)](https://bettercodehub.com/)
+[![Documentation Status](https://readthedocs.org/projects/cicoursenov/badge/?version=latest)](https://cicoursenov.readthedocs.io/en/latest/?badge=latest)
 
 # OxRSE Continuous Integration course
 
