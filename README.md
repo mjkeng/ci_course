@@ -1,3 +1,6 @@
+![OS-test](https://github.com/mjkeng/ci_course/workflows/OS-test/badge.svg)
+![Python 3.6-3.9](https://github.com/mjkeng/ci_course/workflows/Python%203.6-3.9/badge.svg)
+
 # OxRSE Continuous Integration course
 
 This project contains a small Python project. We are going to use free cloud services to automate:
