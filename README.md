@@ -1,5 +1,6 @@
 ![OS-test](https://github.com/mjkeng/ci_course/workflows/OS-test/badge.svg)
 ![Python 3.6-3.9](https://github.com/mjkeng/ci_course/workflows/Python%203.6-3.9/badge.svg)
+[![codecov](https://codecov.io/gh/mjkeng/ci_course/branch/main/graph/badge.svg?token=CPERMII8Y2)](https://codecov.io/gh/mjkeng/ci_course)
 
 # OxRSE Continuous Integration course
 
